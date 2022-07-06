@@ -11,4 +11,4 @@ The following file are added to the GIT
 
 
 # Technology
-Python & Jupitar Notebook
+Python & Jupitar Notebook 
