@@ -10,4 +10,5 @@ The following file are added to the GIT
 4. Roshni_Siddoju.ipynb
 
 
-
+# Technology
+Python & Jupitar Notebook
