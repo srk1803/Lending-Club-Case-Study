@@ -3,9 +3,10 @@
 
 
 ## Table of Contents
-
-
-## General Information
+* General Information
+* Conclusions
+* Technologies Used
+### General Information
 - Problem Statment : Minimize the risk of losing money while lending to customers
 
 
@@ -25,7 +26,7 @@
 - Loan Dataset is being used
 
 
-## Conclusions
+### Conclusions
 - Good to avoid the applicant whose annual income is more with high mortgage value
 - Avoid B,C &D Grade applicants
 - Avoid A5 ,B3,B4,B5 & D2 Subgrade applicants
@@ -33,7 +34,7 @@
 - Avoid purpose of the loan is either Small business, debt consolidation 
 
 
-## Technologies Used
+### Technologies Used
 - Python 3.2
 - library - pandas
 - library - numpy
