@@ -12,3 +12,5 @@ The following file are added to the GIT
 
 # Technology
 Python & Jupitar Notebook 
+
+Case Study submitted on 06/07/2022
